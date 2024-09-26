@@ -15,3 +15,5 @@
 # To review the new content, above the file contents, select Preview.
 # Select Commit changes.
 # In the Commit message field, type a short and meaningful commit message that describes the change you made to the file. You can attribute the commit to more than one author in the commit message.
+# Below the Commit message fields, decide whether to add your commit to the current branch or to a new branch. If your current branch is the default branch, you should choose to create a new branch for your commit, and then create a pull request.
+# Select Commit changes or Propose changes.
