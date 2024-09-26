@@ -1,0 +1,17 @@
+# In the upper-right corner of any page, use the drop-down menu, and select New repository.
+# Use the Owner drop-down menu to select the account you want to own the repository.
+# Type a name for your repository, and an optional description.
+# Choose a repository visibility.
+    ->Public repositories are accessible to everyone on the internet.
+    ->Private repositories are only accessible to you, people you explicitly share access with, and, for organization repositories, certain organization members.
+# Select Create repository and congratulations! You just created a repository!
+
+---------Next up, let’s review how to add files to your repository---------------
+# On GitHub.com, navigate to the main page of the repository.
+# In your repository, browse to the folder where you want to create a file by selecting the creating a new file link or uploading an existing file.
+# Once added, above the list of files select the Add file ᐁ drop-down menu. Then select Create new file.
+# In the file name field, type the name and extension for the file. To create subdirectories, type the / directory separator.
+# In the file contents text box, type content for the file.
+# To review the new content, above the file contents, select Preview.
+# Select Commit changes.
+# In the Commit message field, type a short and meaningful commit message that describes the change you made to the file. You can attribute the commit to more than one author in the commit message.
